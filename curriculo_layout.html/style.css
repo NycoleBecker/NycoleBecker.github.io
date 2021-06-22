@@ -1,0 +1,112 @@
+*{
+    margin: auto;
+     
+}
+
+header{
+    text-align: justify;
+    background-color: rgb(238, 237, 237);
+    width: 60%;
+}
+
+#trNome{
+    width: 80%;
+    padding-left: 50px;
+    font-size: 15px;
+    
+}
+
+#tableInicio{
+    width: 95%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.trInformacao{
+    font-size: 10px;
+
+}
+
+section{
+    width: 60%;
+}
+
+article{
+    background-color: black;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#h3QuemSouEu{
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+#h3EuSou{
+    padding-bottom: 70px;
+    padding-top: 20px;
+}
+
+#imgMinhaFoto{
+    width: 20%;
+    padding-left: 40%;
+    padding-right: 40%;
+    border-radius: 70%;
+}
+
+nav{
+    background-color: rgb(170, 241, 234);
+    color: rgb(83, 79, 79);
+    
+}
+
+#h3localizacao{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+h6{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imgIcone{
+    width: 3%;
+    padding-left: 50%;
+    padding-top: 15px;
+    padding-bottom: 45px;
+}
+
+aside{
+    background-color: rgb(238, 237, 237);
+    height: 250px;
+}
+
+#h3Aside{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+table{
+    clear: both;
+    
+}
+
+#imgTarefa2{
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.692);
+    width: 60%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: white;
+}
